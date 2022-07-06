@@ -43,7 +43,7 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_erictel.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_erictel.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
                                                     <h4>Erictel</h4>
@@ -58,7 +58,7 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_kb2012.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_kb.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
                                                     <h4>Ken Brown Computers</h4>
@@ -70,6 +70,7 @@
                                                 </div>
                                             </div>                                    
                                         </div>
+                                        <!--
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -85,17 +86,18 @@
                                                 </div>
                                             </div>                                   
                                         </div>
+                                        -->
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_larubiadj.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_vatil.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
-                                                    <h4>La Rubia DJ</h4>
+                                                    <h4>Industria farmaceutica</h4>
                                                     <i class="fa fa-desktop fa-3x"></i>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Agenda de Eventos e historial de la DJ de Tango Analía del Giglio.</p>
+                                                        <p>Sitio presencial de producto para el cuidado de la piel.</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                      
@@ -104,14 +106,14 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_vivitar.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_muni.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
-                                                    <h4>Vivitar</h4>
+                                                    <h4>Secretaria de Producción</h4>
                                                     <i class="fa fa-desktop fa-3x"></i>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Catálogo Vivitar para sus líneas de cámaras digitales.</p>
+                                                        <p>PachaLab: propuesta de busquedas laborales para la web de la Municipalidad.</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                   
@@ -120,14 +122,14 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_dash.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_minsemi.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
-                                                    <h4>Dashboard Integral</h4>
+                                                    <h4>Ministerio de Producción</h4>
                                                     <i class="fa fa-desktop fa-3x"></i>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Dashboard para aplicación de administración de Sistema Integral para Servicios de Salud.</p>
+                                                        <p>Dashboard Fondo Semilla.</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                       
@@ -136,14 +138,14 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_dash.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_produccion_admin.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
-                                                    <h4>Dashboard Integral</h4>
+                                                    <h4>Dashboard Administrador</h4>
                                                     <i class="fa fa-desktop fa-3x"></i>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Dashboard para aplicación de administración de Sistema Integral para Servicios de Salud.</p>
+                                                        <p>Dashboard para aplicación de aplicaciones a Programas del Ministerio de Producción.</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                       
@@ -151,14 +153,14 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_dash.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_ecomm.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
-                                                    <h4>Dashboard Integral</h4>
+                                                    <h4>e-commerce</h4>
                                                     <i class="fa fa-desktop fa-3x"></i>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Dashboard para aplicación de administración de Sistema Integral para Servicios de Salud.</p>
+                                                        <p>Home</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                       
@@ -167,14 +169,14 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/web_marina.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/web_styles.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
-                                                    <h4>Marina del Plata</h4>
+                                                    <h4>Manual de estilos</h4>
                                                     <i class="fa fa-desktop fa-3x"></i>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Portfolio de diseño de alta costura y catálogo de zapatos de tango Marina del Plata en Argentina.</p>
+                                                        <p>Atomic Design: manual de estilos de diseño.</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                        
@@ -185,10 +187,25 @@
                         </div>
 
 
-                        <div role="tabpanel" class="tab-pane fade active in animated fadeInUp" id="print" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="print" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="imagesportfolio/dg_chess_misvis.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>CHESS DI</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Gráfica institucional para CHESS DI.<br />
+                                                        Logos, afiches, folletería, manuales de usuario y papelería institucional.</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
+                                        </div>     
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -203,7 +220,7 @@
                                                     </div>                                            
                                                 </div>
                                             </div>                                        
-                                        </div>                                          
+                                        </div>                                                                                  
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -235,17 +252,45 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
+                                                    <a href=""><img src="imagesportfolio/dg_famamafare.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Fama mafare</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Gráfica institucional y material gráfico.</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
+                                        </div>   
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="imagesportfolio/dg_chirusas.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Las Chirusas</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Gráfica para el lanzamiento de su primer milonga en Willie Dixon.</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
+                                        </div>                                            
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
                                                     <a href=""><img src="imagesportfolio/dg_unitechlurix.png" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
                                                     <h4>Unitech</h4>
                                                     <div class="portfolioDetail">
                                                         <hr>
-                                                        <p>Tríptico para el lanzamiento de URIX y presentación institucional de Unitech.</p>
+                                                        <p>Tríptico Dorso para el lanzamiento de URIX y presentación institucional de Unitech.</p>
                                                     </div>                                            
                                                 </div>
                                             </div>                                           
-                                        </div>     
+                                        </div>                                             
                                     </div>
                                 </div>
                             </div>
@@ -253,7 +298,7 @@
 
                         
 
-                        <div role="tabpanel" class="tab-pane fade active in animated fadeInUp" id="brand" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="brand" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">
@@ -396,7 +441,7 @@
                             </div>
                         </div>  
                         
-                        <div role="tabpanel" class="tab-pane fade active in animated fadeInUp" id="ux" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="ux" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">
