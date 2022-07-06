@@ -102,7 +102,6 @@
                                                 </div>
                                             </div>                                      
                                         </div>
-
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -118,7 +117,6 @@
                                                 </div>
                                             </div>                                   
                                         </div>
-
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -134,7 +132,6 @@
                                                 </div>
                                             </div>                                       
                                         </div>     
-                                        
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -165,7 +162,6 @@
                                                 </div>
                                             </div>                                       
                                         </div>     
-   
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -185,7 +181,6 @@
                                 </div>
                             </div>
                         </div>
-
 
                         <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="print" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
@@ -294,9 +289,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>                        
-
-                        
+                        </div>   
 
                         <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="brand" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
@@ -316,7 +309,6 @@
                                                 </div>
                                             </div>                                      
                                         </div>
-                                        
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -331,7 +323,6 @@
                                                 </div>
                                             </div>                                      
                                         </div>
-
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -346,7 +337,6 @@
                                                 </div>
                                             </div>                              
                                         </div>
-
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -361,7 +351,6 @@
                                                 </div>
                                             </div>                                        
                                         </div>     
-                                        
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -403,10 +392,7 @@
                                                     </div>                                            
                                                 </div>
                                             </div>                                       
-                                        </div>     
-
-
-
+                                        </div>
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
@@ -421,7 +407,6 @@
                                                 </div>
                                             </div>                                            
                                         </div> 
-
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">

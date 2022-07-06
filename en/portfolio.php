@@ -37,274 +37,466 @@
                         
                     <div id="myTabContent" class="tab-content text-center">
                         <div role="tabpanel" class="tab-pane fade active in animated fadeInUp" id="web" aria-labelledby="profile-tab">
-                            <ul id="">
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_kb2012.png" alt=""></a>
+                            <div id="portfoliocards">
+                                <div class="container">
+                                    <div class="tr">
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_erictel.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Erictel</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Web Site for Erictel iOt. Internet of Things.</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Ken Brown Computers</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_kb.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Ken Brown Computers</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                    
                                         </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_vivitar.png" alt=""></a>
+                                        <!--
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="imagesportfolio/web_classmate.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Ken Brown Classmate</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Micrositio para la presentación de la netbook Ken Brown para el Programa Nacional Conectar Igualdad.</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                   
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Vivitar</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
+                                        -->
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_vatil.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Industria farmaceutica</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
                                         </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_marina.png" alt=""></a>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_muni.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Secretaria de Producción</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                   
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Marina del Plata</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_corporatecorp.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Corporate Corp.</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_kbvideos.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Ken Brown Videos</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_larubiadj.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>La Rubia DJ</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
-                                        </div>
-                                    </div>                            
-                                </li>   
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/web_4estaciones.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>4 estaciones</h4>
-                                            <i class="fa fa-desktop fa-3x"></i>
-                                        </div>
-                                    </div>                            
-                                </li>                                                            
-                            </ul>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_minsemi.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Ministerio de Producción. Argentina.</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Fondo Semilla Dashboard.</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                       
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_produccion_admin.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Dashboard Administrador</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                       
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_ecomm.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>e-commerce</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                       
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/web_styles.jpg" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Manual de estilos</h4>
+                                                    <i class="fa fa-desktop fa-3x"></i>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
+                                        </div>     
+                                    </div>
+                                </div>
+                            </div>
                         </div>
+
                         <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="print" aria-labelledby="profile-tab">
-                            <ul id="">
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/dg_chess_graf1.png" alt=""></a>
+                            <div id="portfoliocards">
+                                <div class="container">
+                                    <div class="tr">
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/dg_chess_misvis.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>CHESS DI</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/dg_chess_graf1.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>CHESS DI</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
+                                        </div>                                                                                  
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/id_vihvertical.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>CEMA - Rosario</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>CHESS DI</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/dg_unitechlurix.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Unitech</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/id_tango1.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Mundial de Tango</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/id_famamafare.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Fama Mafare</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/id_vihvertical.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>CEMA - Rosario</h4>
-                                        </div>
-                                    </div>                            
-                                </li>                                
-                            </ul>
-                        </div>
-                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="ux" aria-labelledby="profile-tab">
-                            <ul id="">
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href="page-portfolio-item.html"><img src="../imagesportfolio/ux_citi.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>CITI</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href="page-portfolio-item.html"><img src="../imagesportfolio/ux_carritosuper_1.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Commerce</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/ux_abc.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>ABC Consultora</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/ux_blue.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>BLUE</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                            </ul>
-                        </div>                        
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/id_tango1.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Mundial de Tango</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/dg_famamafare.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Fama mafare</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
+                                        </div>   
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/dg_chirusas.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Las Chirusas</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
+                                        </div>                                            
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/dg_unitechlurix.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Unitech</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                           
+                                        </div>                                             
+                                    </div>
+                                </div>
+                            </div>
+                        </div>   
+
                         <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="brand" aria-labelledby="profile-tab">
-                            <ul id="">
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_4estaciones.png" alt=""></a>
+                            <div id="portfoliocards">
+                                <div class="container">
+                                    <div class="tr">
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_pergaminovivo.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Pergamino Vivo</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>4 estaciones</h4>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_euroclor.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Euro Clor</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                      
                                         </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_chess.png" alt=""></a>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_famamafare.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Fama Mafare</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                              
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>CHESS DI</h4>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_marina.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Marina del Plata</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_keke.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>keke</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                       
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_chess.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>CHESS DI</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                        
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_erictel.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Erictel</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                       
                                         </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_keke.png" alt=""></a>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_tangorosario.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Tango Rosario</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                            
+                                        </div> 
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/brand_4estaciones.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>4 estaciones</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p>Branding</p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                             
+                                        </div>     
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                        
+                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="ux" aria-labelledby="profile-tab">
+                            <div id="portfoliocards">
+                                <div class="container">
+                                    <div class="tr">
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/ux_abc.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>ABC Consulting</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                             
                                         </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>keke</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_marina.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Marina del Plata</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_famamafare.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Fama Mafare</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_euroclor.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Euro Clor</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_pergaminovivo.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Pergamino Vivo</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                                <li class="col-lg-4 col-md-4 col-sm-6">
-                                    <div class="portfolio-item">
-                                        <div class="portfolio-image">
-                                            <a href=""><img src="../imagesportfolio/brand_tangorosario.png" alt=""></a>
-                                        </div>
-                                        <div class="portfolio-info-fade">
-                                            <h4>Tango Rosario</h4>
-                                        </div>
-                                    </div>                            
-                                </li>
-                            </ul>
-                        </div>
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href="page-portfolio-item.html"><img src="../imagesportfolio/ux_carritosuper_1.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>Commerce</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                    
+                                        </div>     
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href="page-portfolio-item.html"><img src="../imagesportfolio/ux_citi.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>CITI</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                                
+                                        </div>    
+                                        <div class="well card">
+                                            <div class="portfolio-item">
+                                                <div class="portfolio-image">
+                                                    <a href=""><img src="../imagesportfolio/ux_blue.png" alt=""></a>
+                                                </div>
+                                                <div class="portfolio-info-fade">
+                                                    <h4>BLUE</h4>
+                                                    <div class="portfolioDetail">
+                                                        <hr>
+                                                        <p></p>
+                                                    </div>                                            
+                                                </div>
+                                            </div>                                             
+                                        </div>                                             
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                        
+                     
+                        
                     </div>                        
                     
                 </div>
             </div>
         </div>
     </section>
+
     
     <?php include("datacontacto.php"); ?>
     
