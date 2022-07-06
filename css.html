@@ -1,0 +1,215 @@
+#portfoliocards {
+	*, *:before, *:after {box-sizing:  border-box !important;}
+
+	.tr {
+		-moz-column-width: 18em;
+		-webkit-column-width: 18em;
+		-moz-column-gap: .65em;
+		-webkit-column-gap: .65em;
+	}
+	
+	.item {
+		display: inline-block;
+		// padding:  .25rem;
+		width:  100%; 
+		// background-color: #FFF;
+		// border: 1px solid #cccccc;
+		margin: 0 0 1.25em 0;
+	}
+	
+	.well {
+		position:relative;
+		display: block;
+	}	
+}
+
+#portfoliocards *, #portfoliocards *:before, #portfoliocards *:after {
+    box-sizing: border-box !important;
+}
+#portfoliocards .tr {
+    -moz-column-width: 18em;
+    -webkit-column-width: 18em;
+    -moz-column-gap: .65em;
+    -webkit-column-gap: .65em;
+}
+#portfoliocards .item {
+    display: inline-block;
+    width: 100%;
+    margin: 0 0 1.25em 0;
+}
+#portfoliocards .well {
+    position: relative;
+    display: block;
+}
+
+
+<div id="portfoliocards"">
+    <div class="container">
+        <div class="tr">
+            <div ng-repeat="product in vm.plans" class="item {{ product.subBrandCode | lowercase }}" ng-init="
+                    product.showDetails = false;
+                ">
+                <div class="well card">
+                    <div class="row">
+                        <div class="planOfferHeader col-xs-12" ng-class="{ 'selectedCard': vm.selectedProduct == product }">
+                            <div class="row">
+                                <div class="col-xs-12 mb-1">
+                                    <input type="radio" name="product" id="product-{{ product.productId }}" ng-model="vm.selectedProduct" ng-value="product" required>
+                                    <label class="radio" for="product-{{ product.productId }}" tabindex="-1">{{ product.propertyKeys.caption}}</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <p>
+                                <span class="tag ml-1" ng-switch="product.subBrandCode">
+                                    <span ng-if="vm.canKeepDevice" data-i18n="[html]keep-existing">Keep your own Device</span>
+                                    <span ng-if="vm.canBuyPhone" ng-switch-when="GO_SMART" data-i18n="[html]receive-free-sim-card">Receive Free SIM Card</span>
+                                    <span ng-if="vm.canBuyPhone" ng-switch-default data-i18n="[html]buy-new">Buy new Device</span>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="row planHighlightedData">
+                        <div class="col-xs-12">
+                            <p class="h3" ng-if="!(product.price == 0 && product.priceWithDiscount == 0)"><span class="text-bold">{{ product.price | copayPriceValue:$ }}</span>{{ product.price | copayPricePeriod }}</p>
+                            <p class="h1"><span class="text-bold">{{ product.priceWithDiscount | copayPriceValue:$ }}</span>{{product.priceWithDiscount | copayPricePeriod }}</p>
+                            </!-- <p class="h5" ng-if="!(product.propertyKeys.texts == 0 && product.propertyKeys.voice_minutes == 0)">UNLIMITED TALK AND TEXT</p> --/>
+                        </div>
+                    </div>
+
+                    <div class="row planHighlightedData">
+                        <div class="col-xs-12">
+                            <p class="h4" style="padding: 0 1em;">{{product.description}}</p>
+                            <p class="h4" ng-if="product.propertyKeys.data != '0' && product.propertyKeys.data != ''">{{product.propertyKeys.data}}</p>
+                        </div>
+                    </div>
+
+                    <div class="row" ng-if="product.propertyKeys.plan_details">
+                        <div class="col-md-12 planOfferBody" ng-class="{ 'hidedetails': !product.showDetails }">
+                            <div ng-bind-html="product.propertyKeys.plan_details" style="padding: 12px;"></div>
+                        </div>
+                    </div>
+
+                    <div class="row" ng-if="product.propertyKeys.plan_details">
+                        <div class="col-xs-12 col-sm-12 col-md-12">
+                            <button type="button" class="buttonFooter button button-primary" ng-click="product.showDetails = !product.showDetails">
+                                <span ng-if="!product.showDetails"><span data-i18n="[html]moreDetails">More Details</span> <span class="icon-chevron-down btnUpDown"></span></span>
+                                <span ng-if="product.showDetails"><span data-i18n="[html]hideDetails">Hide Details</span> <span class="icon-chevron-up btnUpDown"></span></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+#newEBBSelectionPlan *, #newEBBSelectionPlan *:before, #newEBBSelectionPlan *:after {
+    box-sizing: border-box !important;
+}
+#newEBBSelectionPlan .file {
+    -moz-column-width: 18em;
+    -webkit-column-width: 18em;
+    -moz-column-gap: 1em;
+    -webkit-column-gap: 1em;
+}
+#newEBBSelectionPlan .item {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 1.5em;
+}
+#newEBBSelectionPlan .item .planOfferLabel {
+    padding: 0 18px;
+    width: 100%;
+}
+#newEBBSelectionPlan .item .planOfferLabel p {
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+#newEBBSelectionPlan .item .planOfferHeader {
+    padding: 18px;
+    padding-bottom: 0;
+    border-bottom: solid 1px #e6e6e6;
+}
+#newEBBSelectionPlan .item .planOfferHeader label.radio {
+    font-size: 16px;
+    line-height: 22px;
+}
+#newEBBSelectionPlan .item span.tag {
+    margin-left: 12px;
+    background-color: #666666;
+    color: red;
+}
+#newEBBSelectionPlan .item .planHighlightedData {
+    border-top: solid 1px #e6e6e6;
+}
+#newEBBSelectionPlan .item .planHighlightedData p {
+    text-align: center;
+}
+#newEBBSelectionPlan .item .planHighlightedData p.h3 {
+    text-decoration: line-through;
+    font-weight: bold;
+    color: #AAAAAA;
+    margin-bottom: 0.05em;
+}
+#newEBBSelectionPlan .item .planHighlightedData p.h1 {
+    font-size: 2.35em;
+    font-weight: normal !important;
+    margin-bottom: .05em !important;
+}
+#newEBBSelectionPlan .item .planOfferBody {
+    background: white;
+    width: 99%;
+    margin: 0 .5%;
+    height: auto;
+    border-top: solid 1px #e6e6e6;
+}
+#newEBBSelectionPlan .item .planOfferBody ul {
+    list-style-type: disc;
+    list-style-position: inside;
+    line-height: 24px;
+    padding: 12px;
+}
+#newEBBSelectionPlan .item .planOfferBody ul ul {
+    list-style-type: circle;
+    list-style-position: inside;
+    line-height: 24px;
+    padding-left: 24px;
+}
+#newEBBSelectionPlan .item .planOfferBody.hidedetails {
+    height: 0px;
+}
+#newEBBSelectionPlan .item .planOfferBody.hidedetails ul ul {
+    display: none;
+}
+#newEBBSelectionPlan .item .buttonFooter {
+    border-top: solid 1px #e6e6e6;
+    background: red;
+    color: white;
+    height: 50px;
+    min-width: 100%;
+    margin: 0;
+    border-radius: 0;
+}
+#newEBBSelectionPlan .item .buttonFooter .btnUpDown {
+    padding: 2px 5px;
+    color: red;
+}
+#newEBBSelectionPlan .well {
+    position: relative;
+    display: block;
+}
+#newEBBSelectionPlan .well.card {
+    padding: 0;
+    overflow: hidden;
+}
