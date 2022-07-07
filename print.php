@@ -94,7 +94,7 @@
             	<div class="col-lg-12">
                 	<div class="boundingBox" id="content" align="center">
                         <ul id="">
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-2">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/dg_chess_graf1.png" alt=""></a>
@@ -109,21 +109,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
-                                <div class="portfolio-item">
-                                    <div class="portfolio-image">
-                                        <a href=""><img src="imagesportfolio/dg_unitechlurix.png" alt=""></a>
-                                    </div>
-                                    <div class="portfolio-info-fade">
-                                        <h4>Unitech</h4>
-                                        <div class="portfolioDetail">
-                                            <hr>
-                                            <p>Tríptico para el lanzamiento de URIX y presentación institucional de Unitech.</p>
-                                        </div>                                            
-                                    </div>
-                                </div>                            
-                            </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-2">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/id_tango1.png" alt=""></a>
@@ -133,6 +119,20 @@
                                         <div class="portfolioDetail">
                                             <hr>
                                             <p>Gráfica institucional y material gráfico para la Sede Rosario del Campeonato Mundial de Tango.</p>
+                                        </div>                                            
+                                    </div>
+                                </div>                            
+                            </li>
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-2">
+                                <div class="portfolio-item">
+                                    <div class="portfolio-image">
+                                        <a href=""><img src="imagesportfolio/dg_unitechlurix.png" alt=""></a>
+                                    </div>
+                                    <div class="portfolio-info-fade">
+                                        <h4>Unitech</h4>
+                                        <div class="portfolioDetail">
+                                            <hr>
+                                            <p>Tríptico para el lanzamiento de URIX y presentación institucional de Unitech.</p>
                                         </div>                                            
                                     </div>
                                 </div>                            

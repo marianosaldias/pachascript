@@ -274,7 +274,7 @@
                 <div class="col-lg-12 mtop-20 fadInDown" id="contentWrapper">
                     <div class="boundingBox" id="content" align="center">
                         <ul id="">
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="../imagesportfolio/web_kb2012.png" alt=""></a>
@@ -285,7 +285,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="../imagesportfolio/web_marina.png" alt=""></a>
@@ -296,7 +296,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="../imagesportfolio/web_corporatecorp.png" alt=""></a>
@@ -330,10 +330,10 @@
                 	<h2>Better together</h2>
                     <h5>Our clients share our passion for results and that is shown in their success.</h5>
                 	<ul class="row">
-                    	<li class="col-lg-3 col-md-3 col-sm-6"><img src="../imagesportfolio/brand_chess.png" class="img-responsive" alt="CHESS"></li>
-                        <li class="col-lg-3 col-md-3 col-sm-6"><img src="../imagesportfolio/brand_4estaciones.png" class="img-responsive" alt="4 estaciones"></li>
-                        <li class="col-lg-3 col-md-3 col-sm-6"><img src="../imagesportfolio/brand_marina.png" class="img-responsive" alt="Marina del Plata"></li>
-                        <li class="col-lg-3 col-md-3 col-sm-6"><img src="../imagesportfolio/brand_emerios.png" class="img-responsive" alt="emerios"></li>
+                    	<li class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="../imagesportfolio/brand_chess.png" class="img-responsive" alt="CHESS"></li>
+                        <li class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="../imagesportfolio/brand_4estaciones.png" class="img-responsive" alt="4 estaciones"></li>
+                        <li class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="../imagesportfolio/brand_marina.png" class="img-responsive" alt="Marina del Plata"></li>
+                        <li class="col-lg-3 col-md-3 col-sm-6 col-xs-6"><img src="../imagesportfolio/brand_emerios.png" class="img-responsive" alt="emerios"></li>
                     </ul>
                     <h6>We are very proud of our client base and the lasting relationships we have forged over the years.</h6>
             	</div>

@@ -19,7 +19,7 @@
     <section id="contacto">
     	<div class="container mtop30">
             <div class="row">
-            	<div class="col-sm-6 col-sm-offset-3 mbot50 mtop-25" align="center">
+            	<div class="col-sm-6 col-sm-offset-3 mbot50 mtop-25">
                 	<h1 class="iso-hover-title text-center">CONTACTO</h1>
                     <form id="form1" method="post" action="mail.php">
                         <div class="control">

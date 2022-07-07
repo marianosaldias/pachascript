@@ -107,14 +107,14 @@
             <div class="row">
             	<div class="col-lg-12 text-center">
                     <h1 class="h1-img-logo fadInDown"><img src="images/img-logo-pacha-vert.png" alt="" title="PACHA - Diseño Web / Diseño Gráfico" style="width:175px;"></h1>
-                    <h4 class="mtop25 fadInUp">Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto, empresa, artesanía, que llega a lugares donde nunca pensaste o soñaste que llegarían.</h4>
+                    <h4 class="mtop25 fadInUp">Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto para que llegue a lugares donde nunca soñaste.</h4>
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico fadInDown"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>Pacha</h4>
-                            <p>Somos la solución a sus necesidades de diseño gráfico y comunicación: a través de soluciones gráficas y sitios dinámicos web.</p>
+                            <p>Somos la respuesta a tus necesidades de diseño y comunicación a través de soluciones gráficas y sitios web.</p>
                             <a href="pacha.php" class="btn btn-primary">PACHA</a>
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico fadInDown"><i class="fa fa-desktop fa-5x"></i></div>
                             <h4>Web</h4>
-                            <p>PACHA ofrece servicios de diseño web, programación orientada a Internet, hospedaje web, registro de dominios y mucho más.</p>
+                            <p>Servicios de diseño web, desarrollo, e-mail marketing, hosting, registro de dominios y mucho más!</p>
                             <a href="web.php" class="btn btn-primary">Web</a>
                         </div>
                     </div>
@@ -130,7 +130,7 @@
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico fadInDown"><i class="fa fa-print fa-5x"></i></div>
                             <h4>Print</h4>
-                            <p>Todo lo que necesita para consolidar su identidad corporativa y necesidades de comunicación: logos, brochures, tarjetas de presentación...</p>
+                            <p>Tenemos todo lo que necesitas para consolidar tu identidad visual y necesidades de comunicación: logos, brochures, tarjetas de presentación, etc.</p>
                             <a href="print.php" class="btn btn-primary">Print</a>
                         </div>
                     </div> 
@@ -152,7 +152,7 @@
                 <div class="col-sm-6 mbot50">
                     <h2 class="fadInLeft">OFF SHORE</h2>
                     <div class="clearfix"></div>
-                    <h5 class="fadInRight">Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h5>
+                    <h5 class="fadInRight">Creatividad, calidad en nuestros diseños y óptimos desarrollos a bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación web on-line.</h5>
                     <a class="btn btn-lg mtop30 text-center fadInUp" href="pacha.php#partners">Partners</a>
                 </div>
             </div>
@@ -174,6 +174,7 @@
         
                 <div class="tab-content mtop-15">
                   <div class="tab-pane fadInUp active" id="feature1">
+                    <div class="col-lg-10 col-lg-offset-1" align="center">
                       	<div class="fus-tab-center" align="center">
                         	<h3>Prime-Line</h3>
                             <p>Diseño de la interfaz de carrito de compras para Prime-line.<br />
@@ -183,6 +184,7 @@
                               <img src="imagesportfolio/exito_primeline.png" alt="" class="img-responsive">
                             </a>
                         </div>
+                    </div>
                   </div>
                   <div class="tab-pane fadInUp" id="feature2">
                       <div class="col-lg-10 col-lg-offset-1" align="center">
@@ -241,8 +243,8 @@
                 </div>                 
                 <div class="col-sm-6">
                     <h2 class="fadInDown">USER EXPERIENCE</h2>
-                    <h5 class="fadInleft">La Experiencia de Usuario define el conjunto de sensaciones e impresiones que recoge un usuario desde que accede a una página web hasta que la abandona.</h5>
-                    <h6 class="fadInRight">El usuario evalua la experiencia de la visita a un sitio web y, en consecuencia, decide volver o no a visitar el sitio.</h6>
+                    <h5 class="fadInleft">La experiencia de usuario define el conjunto de sensaciones e impresiones que recoge un usuario desde que accede a una página web hasta que la abandona.</h5>
+                    <h6 class="fadInRight">El usuario evalúa la visita, el resultado y su satisfacción y, en consecuencia, decide volver o no a visitar el sitio.</h6>
                     <a href="portfolio.php" class="btn btn-lg mtop30 text-center fadInUp">Portfolio UX</a>     
                 </div>
             </div>
@@ -258,7 +260,7 @@
             	<div class="col-lg-12">
                 	<div class="boundingBox" id="content" align="center">
                         <ul id="">
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/web_erictel.png" alt=""></a>
@@ -273,7 +275,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/web_kb2012.png" alt=""></a>
@@ -288,7 +290,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/web_dash.png" alt=""></a>
@@ -326,10 +328,10 @@
                 	<h2>Compartiendo pasión y trabajo</h2>
                     <h5>Nuestros clientes comparten nuestra pasión por los resultados y la demuestran en su éxito.</h5>
                 	<ul class="">
-                    	<li class="col-lg-3 col-md-3 col-sm-6"><img src="imagesportfolio/brand_chess.png" class="img-responsive" alt=""></li>
-                        <li class="col-lg-3 col-md-3 col-sm-6"><img src="imagesportfolio/brand_4estaciones.png" class="img-responsive" alt=""></li>
-                        <li class="col-lg-3 col-md-3 col-sm-6"><img src="imagesportfolio/brand_marina.png" class="img-responsive" alt=""></li>
-                        <li class="col-lg-3 col-md-3 col-sm-6"><img src="imagesportfolio/brand_famamafare.png" class="img-responsive" alt=""></li>
+                    	<li class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="imagesportfolio/brand_chess.png" class="img-responsive" alt=""></li>
+                        <li class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="imagesportfolio/brand_4estaciones.png" class="img-responsive" alt=""></li>
+                        <li class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="imagesportfolio/brand_marina.png" class="img-responsive" alt=""></li>
+                        <li class="col-lg-3 col-md-3 col-sm-3 col-xs-6"><img src="imagesportfolio/brand_famamafare.png" class="img-responsive" alt=""></li>
                     </ul>
                     <h6>Estamos muy orgullosos de nuestros clientes y de las relaciones duraderas que hemos forjado todos estos años.</h6>
             	</div>

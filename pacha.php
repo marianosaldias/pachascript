@@ -20,17 +20,17 @@
             <div class="row mtop30">
             	<div class="col-lg-12 text-center">
                     <h1 class="iso-hover-title">PACHA</h1>
-                    <h3 class="mtop25 font-light">Una idea, tu vocación, tus deseos de crecimiento o simplemente tus necesidades te llevaron un día a transformarte en un emprendedor.</h3>
-                    <h5>Cada vez que abrís las puertas de tu empresa, en cada uno de tus productos, en cada creaciones, cada vez que te vas al taller que tenés en tu casa, cada vez que levantás la mesa después de comer para empezar a hacer tus artesanías...<br />
+                    <h3 class="mtop25 font-light">Tu vocación, una idea, tus deseos de crecimiento o simplemente tus necesidades te llevaron un día a transformarte en un emprendedor.</h3>
+                    <h5>Cada vez que abrís las puertas de tu empresa, en cada uno de tus productos, en cada una de tus creaciones, cada vez que vas a tu taller, cuando trabajas en tus artesanías en la mesa de tu cocina después de comer...<br />
                     <strong>PACHA esta con vos</strong>.</h5>
-                    <h5>Estamos con vos para transportar esa fuerza, que viaja junto a nosotros y tu producto, tu empresa, tu artesanía, que llega a lugares donde nunca pensaste o soñaste que llegarían</h5>
+                    <h5>Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto para que llegue a lugares donde nunca soñaste.</h5>
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>PACHA</h4>
-                            <p>Somos la solución a sus necesidades de diseño gráfico y comunicación: a través de soluciones gráficas y sitios dinámicos web.</p>
+                            <p>Somos la respuesta a tus necesidades de diseño y comunicación a través de soluciones gráficas y sitios web.</p>
                             <a href="pacha.php" class="btn btn-primary fadInUp">PACHA</a>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
                             <h4>Web</h4>
-                            <p>PACHA ofrece servicios de diseño web, programación orientada a Internet, hospedaje web, registro de dominios y mucho más.</p>
+                            <p>Servicios de diseño web, desarrollo, e-mail marketing, hosting, registro de dominios y mucho más!</p>
                             <a href="web.php" class="btn btn-primary fadInUp">Web</a>
                         </div>
                     </div>
@@ -46,7 +46,7 @@
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
                             <h4>Print</h4>
-                            <p>Todo lo que necesita para consolidar su identidad corporativa y necesidades de comunicación: logos, brochures, tarjetas de presentación...</p>
+                            <p>Tenemos todo lo que necesitas para consolidar tu identidad visual y necesidades de comunicación: logos, brochures, tarjetas de presentación, etc.</p>
                             <a href="print.php" class="btn btn-primary fadInUp">Print</a>
                         </div>
                     </div>                                        
@@ -120,7 +120,7 @@
             <div class="row">
             	<div class="col-lg-12 text-center">
                 	<h2 class="iso-hover-title fadInDown">MISIÓN Y VISIÓN</h2>
-                    <h4 class="fadInUp">Pacha está en constante formación para ofrecer las últimas tendencias de diseño, desarrollo y programación Web.</h4>
+                    <h4 class="fadInUp">Pacha está en formación continua para ofrecer las últimas tendencias en diseño y desarrollo web.</h4>
                 </div>
             	<div class="col-sm-12 text-center mtop25">
                 	<div class="col-sm-4 mtop80">
@@ -130,14 +130,14 @@
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico"><i class="fa fa-rocket fa-5x"></i></div>
                             <h4>Misión</h4>
-                            <p>Brindar a empresas e instituciones, soluciones de diseño publicitario, internet y multimedia, con el compromiso en la calidad de nuestros servicios, siendo en todo momento una empresa testimonio de bien social y responsabilidad corporativa.</p>
+                            <p>Mejora continua en soluciones de diseño, comunicación, desarrollo y experiencia innovadoras comprometidas con la calidad y la satisfacción final.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4 mtop80">
                     	<div class="box-text fadInDown">
                         	<div class="circle-text-ico"><i class="fa fa-eye fa-5x"></i></div>
                             <h4>Visión</h4>
-                            <p>Ser la mejor empresa del norte de la Provincia de Buenos Aires y sur de Santa Fé proveedora de servicios en las áreas de diseño, internet y multimedia, consolidándonos como aliados estratégicos de nuestros clientes.</p>
+                            <p>Tus aliados estratégicos en la búsqueda continua de soluciones innovadoras en las áreas de diseño, internet a través de una continua capacitación.</p>
                         </div>
                     </div>
             	</div>
@@ -150,14 +150,14 @@
             <div class="row">
             	<div class="col-lg-12 text-center">
                 	<h2 class="iso-hover-title fadInDown">Cultura</h2>
-                    <h4 class="fadInDown">Orientados al asesoramiento, ofrecemos un servicio gratuito de Consultoría en Diseño, Comercial, Marketing y Publicidad a cargo de profesionales en las áreas.</h4>
+                    <h4 class="fadInDown">Orientados a tus objetivos, ofrecemos un servicio de Consultoría en Diseño y Desarrollo para procesos de comunicación y marketing digital a cargo de profesionales en las áreas.</h4>
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                     <div class="col-sm-4 mbot80">
                     	<div class="box-text fadInLeft">
                         	<div class="circle-text-ico"><i class="fa fa-heart fa-5x"></i></div>
                             <h4>Pasión</h4>
-                            <p>La motivación, esfuerzo y entregia a cada trabajo asignado. Vocación, pasión y entusiasmo por el diseño, marcan la diferencia en nuestros servicios.</p>
+                            <p>Vocación, pasión y entusiasmo por el diseño, marcan la diferencia en nuestros servicios.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4 mbot80">
@@ -176,7 +176,7 @@
                     </div>                    
             	</div>
             </div>
-      </div>
+        </div>
     </section>    
 
     <!--<?php //include("subscribe.php"); ?>-->
@@ -186,10 +186,10 @@
             <div class="row">
             	<div class="col-lg-10 col-xs-offset-1 text-center">
                 	<h2 class="iso-hover-title fadInDown">PARTNERS</h2>
-                    <h4 class="fadInUp">Brindamos apoyo técnico y compartimos proyectos junto a estudios de diseño de Buenos Aires, Viena y Berlín.</h4>
-                    <h5 class="fadInUp">Agradecemos la confianza de estos Estudios y nos esforzamos para sigan contando con nosotros siempre.</h5>
+                    <h4 class="fadInUp">Compartimos proyectos de diseño y desarrollo junto a estudios de Buenos Aires, California, Madrid y Berlín.</h4>
+                    <h5 class="fadInUp">Agradecemos la confianza que nos brindan y renovamos nuestro compromiso de excelencia a diario.</h5>
             	</div>
-                
+
                 <!--
                 <div class="col-lg-12 mtop25 text-center">
                     <a href="#" class=""><i class="fa fa-chevron-circle-right fa-1x"></i></a>

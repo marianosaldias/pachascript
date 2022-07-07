@@ -19,8 +19,8 @@
             <div class="row mtop30">
             	<div class="col-lg-12 text-center">
                     <h1 class="iso-hover-title">WEB DESIGN</h1>
-                    <h4>Un Sitio Web presencial, en la actualidad, es un requisito de imagen para gran parte de las empresas.</h4>
-                    <h6>Internet se vuelve en este punto una solución perfecta, puesto que el potencial cliente puede llegar hasta el Sitio Web de la empresa y conocer todas las características del producto, ver fotografías desde varios ángulos del mismo, formas de pago, modelos, colores disponibles y un sin fin de datos, sin tener que moverse de su escritorio.</h6>
+                    <h4>La presencia on-line, mediante un sitio web o redes sociales, es en la actualidad un paso primario para toda empresa o emprendedor.</h4>
+                    <h6>Internet se vuelve en este punto una solución de posicionamiento de tu producto a bajo costo. Detalles, imágenes, formas de pago, modelos y colores son accesibles desde un teléfono.</h6>
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
@@ -34,7 +34,7 @@
                     	<div class="box-text fadInUp">
                         	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>Rediseño</h4>
-                            <p>En el rediseño de un sitio web es necesario tomar en cuenta la interacción de un usuario con un objetivo determinado y un espacio virtual, el sitio web.</p>
+                            <p>Un rediseño periodico de la experiencia del usuario es consecuencia del análisis de resultados necesario para realizar ajustes en la optimización de un sitio web o aplicación.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4">
@@ -85,7 +85,7 @@
             	<div class="col-lg-12">
                 	<div class="boundingBox" id="content" align="center">
                         <ul id="">
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/web_kb2012.png" alt=""></a>
@@ -100,7 +100,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/web_vivitar.png" alt=""></a>
@@ -115,7 +115,7 @@
                                     </div>
                                 </div>                            
                             </li>
-                            <li class="col-lg-4 col-md-4 col-sm-6">
+                            <li class="col-lg-4 col-md-4 col-sm-4 mb-1">
                                 <div class="portfolio-item">
                                     <div class="portfolio-image">
                                         <a href=""><img src="imagesportfolio/web_marina.png" alt=""></a>

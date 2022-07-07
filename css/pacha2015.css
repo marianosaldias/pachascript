@@ -532,27 +532,6 @@ ul.menu-destacados li:hover > a { color:#FFFFFF;}
 
 .portfolio-item {
   position: relative;
-  /*
-  background: #FFF;
-  margin-bottom: 20px;
-  border: 8px solid #FFF;
-  -webkit-border-radius: 5px;
-  -webkit-background-clip: padding-box;
-  -moz-border-radius: 5px;
-  -moz-background-clip: padding;
-  border-radius: 5px;
-  background-clip: padding-box;
-
-  -webkit-box-shadow: inset 0 1px #fff,0 0 8px #c8cfe6;
-  -moz-box-shadow: inset 0 1px #fff,0 0 8px #c8cfe6;
-  box-shadow: inset 0 1px #fff,0 0 8px #c8cfe6;
-  color: inset 0 1px #fff,0 0 8px #c8cfe6;
-  -webkit-transition: all .5s ease;
-  -moz-transition: all .5s ease;
-  -o-transition: all .5s ease;
-  -ms-transition: all .5s ease;
-  transition: all .5s ease;
-  */
 }
 .portfolio-item .portfolio-image {
   overflow: hidden;
@@ -894,6 +873,11 @@ a.media-icons:hover .circle-sm-ico { background: #26B3E9; color:#fff;}
 .mleft40 { margin-left:40px;}
 .mleft-35 { margin-left:-35px !important;}
 .disp-inline { display:inline;}
+
+.mt-1 {margin-top: 1em;}
+.mb-1 {margin-bottom: 1em !important;}
+.mb-2 {margin-bottom: 2em !important;}
+
 strong { font-weight:bold;}
 
 .pad-bott20 { padding-bottom:20px;}
