@@ -275,7 +275,7 @@
                                         <div class="well card">
                                             <div class="portfolio-item">
                                                 <div class="portfolio-image">
-                                                    <a href=""><img src="imagesportfolio/dg_unitechlurix.png" alt=""></a>
+                                                    <a href=""><img src="imagesportfolio/dg_unitech.jpg" alt=""></a>
                                                 </div>
                                                 <div class="portfolio-info-fade">
                                                     <h4>Unitech</h4>

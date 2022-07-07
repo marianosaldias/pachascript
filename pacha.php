@@ -186,7 +186,7 @@
             <div class="row">
             	<div class="col-lg-10 col-xs-offset-1 text-center">
                 	<h2 class="iso-hover-title fadInDown">PARTNERS</h2>
-                    <h4 class="fadInUp">Compartimos proyectos de diseño y desarrollo junto a estudios de Buenos Aires, California, Madrid y Berlín.</h4>
+                    <h4 class="fadInUp">Compartimos proyectos de diseño y desarrollo junto a estudios de Buenos Aires, California y Madrid.</h4>
                     <h5 class="fadInUp">Agradecemos la confianza que nos brindan y renovamos nuestro compromiso de excelencia a diario.</h5>
             	</div>
 
