@@ -35,12 +35,12 @@
                     <div class="item active" style="overflow:hidden;">
                         <div class="carousel-caption">
                             <div class="container container-carou-home">	
-                                    <div class="col-lg-7 col-sm-6 mobile notmobile fadInUp" id="offsho">
+                                    <div class="col-lg-7 col-sm-6 mobile notmobile" id="offsho">
                                         <div class="p1 fadeIn" data-type="element" data-anchor-target="#offsho" data-0="top:85px; right:-100px;" data-end="top:800px;"  data-speed="10">
                                             <img src="imgparallax/offshore.jpg" alt="">
                                         </div>
                                     </div>     
-                                    <div class="col-lg-5 col-sm-6 mbot50 fadInUp">
+                                    <div class="col-lg-5 col-sm-6 mbot50">
                                         <h2 class="iso-hover-title">OFF SHORE</h2>
                                         <h5>Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h5>
                                         <a class="btn btn-lg mtop30 text-center" href="pacha.php#partners">Partners</a>
@@ -52,12 +52,12 @@
                         <div class="carousel-caption">
                             <div class="container container-carou-home">	
 
-                                    <div class="col-lg-7 col-sm-6 mobile notmobile fadInUp" id="userx">
+                                    <div class="col-lg-7 col-sm-6 mobile notmobile" id="userx">
                                         <div class="p1 fadeIn" data-type="element" data-anchor-target="#userx" data-0="top:85px; right:-100px;" data-end="top:100px;" data-speed="10">
                                             <img src="imgparallax/carrito.jpg" alt="">
                                         </div>   
                                     </div>     
-                                    <div class="col-lg-5 col-sm-6 fadInUp">
+                                    <div class="col-lg-5 col-sm-6">
                                         <h2 class="iso-hover-title">e-COMMERCE</h2>
                                         <h5>Últimos diseños y tecnologías para el desarrollo de tu sitio web web con Carro de Compras/e-commerce para que puedas vender por internet y aumentar las ventas de tu empresa.</h5>
                                         <a href="web.php#ux" class="btn btn-lg mtop30 text-center">E-Commerce</a>
@@ -106,21 +106,21 @@
         <div class="container">
             <div class="row">
             	<div class="col-lg-12 text-center">
-                    <h1 class="h1-img-logo fadInDown"><img src="images/img-logo-pacha-vert.png" alt="" title="PACHA - Diseño Web / Diseño Gráfico" style="width:175px;"></h1>
-                    <h4 class="mtop25 fadInUp">Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto para que llegue a lugares donde nunca soñaste.</h4>
+                    <h1 class="h1-img-logo"><img src="images/img-logo-pacha-vert.png" alt="" title="PACHA - Diseño Web / Diseño Gráfico" style="width:175px;"></h1>
+                    <h4 class="mtop25">Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto para que llegue a lugares donde nunca soñaste.</h4>
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-paint-brush fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>Pacha</h4>
                             <p>Somos la respuesta a tus necesidades de diseño y comunicación a través de soluciones gráficas y sitios web.</p>
                             <a href="pacha.php" class="btn btn-primary">PACHA</a>
                         </div>
                     </div>
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-desktop fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
                             <h4>Web</h4>
                             <p>Servicios de diseño web, desarrollo, e-mail marketing, hosting, registro de dominios y mucho más!</p>
                             <a href="web.php" class="btn btn-primary">Web</a>
@@ -128,7 +128,7 @@
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-print fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
                             <h4>Print</h4>
                             <p>Tenemos todo lo que necesitas para consolidar tu identidad visual y necesidades de comunicación: logos, brochures, tarjetas de presentación, etc.</p>
                             <a href="print.php" class="btn btn-primary">Print</a>

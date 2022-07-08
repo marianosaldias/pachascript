@@ -15,8 +15,8 @@
 	<?php include("header.php");?>
 
 	<section class="back-grey">
-        <div class="container">
-            <div class="row mtop30">
+        <div class="container mt-4">
+            <div class="row">
             	<div class="col-lg-12 text-center">
                     <h1 class="iso-hover-title">WEB DESIGN</h1>
                     <h4>La presencia on-line, mediante un sitio web o redes sociales, es en la actualidad un paso primario para toda empresa o emprendedor.</h4>
@@ -24,21 +24,21 @@
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
+                    	<div class="box-text">
                         	<div class="circle-text-ico"><i class="fa fa-pencil fa-5x"></i></div>
                             <h4>Diseño</h4>
                             <p>Contemplamos aspectos de usabilidad, una estructura clara de distribución de contenidos y secciones y al posicionamiento en buscadores (SEO).</p>
                         </div>
                     </div>
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
+                    	<div class="box-text">
                         	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>Rediseño</h4>
                             <p>Un rediseño periodico de la experiencia del usuario es consecuencia del análisis de resultados necesario para realizar ajustes en la optimización de un sitio web o aplicación.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4">
-                    	<div class="box-text fadInUp">
+                    	<div class="box-text">
                         	<div class="circle-text-ico"><i class="fa fa-user fa-5x"></i></div>
                             <h4>UX/UI Design</h4>
                             <p>Diseños orientados a una Experiencia de Usuario: sensaciones e impresiones positivas que garantizan la vuelta del usuario a su sitio web.</p>

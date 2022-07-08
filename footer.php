@@ -37,7 +37,7 @@
                 <div class="col-lg-4 col-md-4 mtop30">
                     <div class="contact">
                         <h4>Contacto</h4>
-                        <h6 style="color:#d1a650;">Mariano Sald&iacute;as<br />
+                        <h6><a href="marianosaldias.php" style="text-decoration: underline;"><strong>Mariano Sald&iacute;as</strong></a><br />
                         <small>UX/UI Designer & Front-End Developer</small><br />
                         <i class="fa fa-phone fa-1x"></i>+54 9 (11) 6676 4677</h6>
                         <ul class="contact-emails unstyled">

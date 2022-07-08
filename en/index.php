@@ -32,12 +32,12 @@
                     <div class="item active" style="overflow:hidden;">
                         <div class="carousel-caption">
                             <div class="container container-carou-home">	
-                                    <div class="col-lg-7 col-sm-6 mobile notmobile fadInUp" id="offsho">
+                                    <div class="col-lg-7 col-sm-6 mobile notmobile" id="offsho">
                                         <div class="p1 fadeIn" data-type="element" data-anchor-target="#offsho" data-0="top:85px; right:-100px;" data-end="top:800px;"  data-speed="10">
                                             <img src="imgparallax/offshore.jpg" alt="">
                                         </div>
                                     </div>     
-                                    <div class="col-lg-5 col-sm-6 mbot50 fadInUp">
+                                    <div class="col-lg-5 col-sm-6 mbot50">
                                         <h2 class="iso-hover-title">OFF SHORE</h2>
                                         <h5>Creativity, quality and low costs of development makes us partners of agencies and foreign companies to develop communication projects on the web.</h5>
                                         <a class="btn btn-lg mtop30 text-center" href="pacha.php#partners">Partners</a>
@@ -49,12 +49,12 @@
                         <div class="carousel-caption">
                             <div class="container container-carou-home">	
 
-                                    <div class="col-sm-6 mobile notmobile fadInUp" id="userx">
+                                    <div class="col-sm-6 mobile notmobile" id="userx">
                                         <div class="p1 fadeIn" data-type="element" data-anchor-target="#userx" data-0="top:85px; right:-100px;" data-end="top:100px;" data-speed="10">
                                             <img src="../imgparallax/carrito.jpg" alt="">
                                         </div>   
                                     </div>     
-                                    <div class="col-sm-6 fadInUp">
+                                    <div class="col-sm-6">
                                         <h2 class="iso-hover-title">e-COMMERCE</h2>
                                         <h5>We develop the latest designs and technologies for your e-commerce solution.<br />
                                         You can sell online and increase sales of your company.</h5>
@@ -104,14 +104,14 @@
         <div class="container">
             <div class="row">
             	<div class="col-lg-12 text-center">
-                    <h1 class="h1-img-logo fadInDown"><img src="images/img-logo-pacha-vert.png" alt="" title="PACHA - Diseño Web / Diseño Gráfico" style="width:175px;"></h1>
-                    <h4 class="mtop25 fadInUp">Identity is a set of beliefs and the ability to communicate them with your customers. A successful brand starts with who you are, why you do what you do and not just what you do.</h4>
-                    <h5 class="mtop25 fadInUp">We help you focus on creating and establishing a strong image for your brand and a fascinating story that customers can associate with, relate to and feel compelled to share.</h5>
+                    <h1 class="h1-img-logo"><img src="images/img-logo-pacha-vert.png" alt="" title="PACHA - Diseño Web / Diseño Gráfico" style="width:175px;"></h1>
+                    <h4 class="mtop25">Identity is a set of beliefs and the ability to communicate them with your customers. A successful brand starts with who you are, why you do what you do and not just what you do.</h4>
+                    <h5 class="mtop25">We help you focus on creating and establishing a strong image for your brand and a fascinating story that customers can associate with, relate to and feel compelled to share.</h5>
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-paint-brush fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>Pacha</h4>
                             <p>A full service digital agency.<br />
                             We are the solution to your needs of graphic design and communication through graphic solutions and web sites.</p>
@@ -119,16 +119,16 @@
                         </div>
                     </div>
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-desktop fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
                             <h4>Web Design</h4>
                             <p>Outstanding web design, delivered by having a thorough understanding of your business and by utilising the latest industry techniques and trends.</p>
                             <a href="web.php" class="btn btn-primary">Web</a>
                         </div>
                     </div>
                 	<div class="col-sm-4">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-print fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
                             <h4>Graphic Design</h4>
                             <p>Image is everything in business. Our graphic designers cover everything from logo design, business card design to product brochures and leaflets.</p>
                             <a href="#" class="btn btn-primary">Print</a>

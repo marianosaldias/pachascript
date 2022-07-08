@@ -17,8 +17,8 @@
 
 
     <section class="back-grey">
-        <div class="container">
-            <div class="row mtop30">
+        <div class="container mt-4">
+            <div class="row">
             	<div class="col-lg-12 text-center">
                 	<h1 class="iso-hover-title">IMAGEN CORPORATIVA</h1>
                     <h4>El mejor diseño para tu imagen corporativa: logotipos, en la web, diseño de papelería y folletería y tarjetas de visita.</h4>
@@ -29,10 +29,7 @@
                         <h5>Resaltar atributos y valores de su identidad corporativa e inclinarse siempre a las nuevas tendencias, le permitirá mejorar su imagen corporativa.</h5>
                         <h6>La imagen de su empresa es su carta de presentación, es decir, su cara frente a la sociedad. Tener una imagen corporativa que transmita los conceptos con los cuales la empresa se identifica, es central para generar una percepción positiva en sus clientes y reforzar el vínculo ellos.</h6>
                     </div>
-            	</div>
-                <div class="col-lg-4 col-lg-offset-4">
-                    <img src="images/cons_nectar.png" class="img-responsive">
-                </div>                
+            	</div>              
             </div>
       </div>
     </section>

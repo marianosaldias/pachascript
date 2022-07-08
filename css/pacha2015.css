@@ -99,7 +99,7 @@ h1.iso-hover-title, h2.iso-hover-title { background:url(../images/back_iso-hover
 ul.nav-tabs li a { opacity:.8;}
 ul.nav-tabs li.active a { opacity:1;}
 
-.nav-tabs-portfolio > li { float: left; margin-bottom: -1px; width: 25%;}
+.nav-tabs-portfolio > li { float: left; margin-bottom: -1px; width: 33%;}
 
 
 
@@ -236,7 +236,7 @@ a.tagcloud {
 .darkgreen { background:#1a6200;}
 .yellowpastel { background:#fffaab;}
 
-section { padding:120px 0 120px; overflow:hidden; background:#fff;}
+section { padding:60px 0 60px; overflow:hidden; background:#fff;}
 
 .back-greencompany {
   background:url("../imgparallax/hoja-2.png");
@@ -875,6 +875,9 @@ a.media-icons:hover .circle-sm-ico { background: #26B3E9; color:#fff;}
 .disp-inline { display:inline;}
 
 .mt-1 {margin-top: 1em;}
+.mt-2 {margin-top: 2em;}
+.mt-3 {margin-top: 3em;}
+.mt-4 {margin-top: 4em;}
 .mb-1 {margin-bottom: 1em !important;}
 .mb-2 {margin-bottom: 2em !important;}
 

@@ -16,8 +16,8 @@
 	<?php include("header.php");?>
 
 	<section id="pacha">
-        <div class="container">
-            <div class="row mtop30">
+        <div class="container mt-4">
+            <div class="row">
             	<div class="col-lg-12 text-center">
                     <h1 class="iso-hover-title">PACHA</h1>
                     <h4 class="mtop25 font-light">An idea, your vocation, your wishes or just your needs create on you an entrepreneur.</h4>
@@ -27,8 +27,8 @@
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-paint-brush fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>Pacha</h4>
                             <p>A full service digital agency.<br />
                             We are the solution to your needs of graphic design and communication through graphic solutions and web sites.</p>
@@ -36,16 +36,16 @@
                         </div>
                     </div>
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-desktop fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
                             <h4>Web Design</h4>
                             <p>Outstanding web design, delivered by having a thorough understanding of your business and by utilising the latest industry techniques and trends.</p>
                             <a href="web.php" class="btn btn-primary">Web</a>
                         </div>
                     </div>
                 	<div class="col-sm-4">
-                    	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico fadInDown"><i class="fa fa-print fa-5x"></i></div>
+                    	<div class="box-text">
+                        	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
                             <h4>Graphic Design</h4>
                             <p>Image is everything in business. Our graphic designers cover everything from logo design, business card design to product brochures and leaflets.</p>
                             <a href="print.php" class="btn btn-primary">Print</a>

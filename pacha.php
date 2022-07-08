@@ -16,8 +16,8 @@
 	<?php include("header.php");?>
 
 	<section id="pacha">
-        <div class="container">
-            <div class="row mtop30">
+        <div class="container mt-4">
+            <div class="row">
             	<div class="col-lg-12 text-center">
                     <h1 class="iso-hover-title">PACHA</h1>
                     <h3 class="mtop25 font-light">Tu vocación, una idea, tus deseos de crecimiento o simplemente tus necesidades te llevaron un día a transformarte en un emprendedor.</h3>
@@ -27,27 +27,27 @@
                 </div>
             	<div class="col-lg-12 text-center mtop100">
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
+                    	<div class="box-text">
                         	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
                             <h4>PACHA</h4>
                             <p>Somos la respuesta a tus necesidades de diseño y comunicación a través de soluciones gráficas y sitios web.</p>
-                            <a href="pacha.php" class="btn btn-primary fadInUp">PACHA</a>
+                            <a href="pacha.php" class="btn btn-primary">PACHA</a>
                         </div>
                     </div>
                 	<div class="col-sm-4 mbot80">
-                    	<div class="box-text fadInUp">
+                    	<div class="box-text">
                         	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
                             <h4>Web</h4>
                             <p>Servicios de diseño web, desarrollo, e-mail marketing, hosting, registro de dominios y mucho más!</p>
-                            <a href="web.php" class="btn btn-primary fadInUp">Web</a>
+                            <a href="web.php" class="btn btn-primary">Web</a>
                         </div>
                     </div>
                 	<div class="col-sm-4">
-                    	<div class="box-text fadInUp">
+                    	<div class="box-text">
                         	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
                             <h4>Print</h4>
                             <p>Tenemos todo lo que necesitas para consolidar tu identidad visual y necesidades de comunicación: logos, brochures, tarjetas de presentación, etc.</p>
-                            <a href="print.php" class="btn btn-primary fadInUp">Print</a>
+                            <a href="print.php" class="btn btn-primary">Print</a>
                         </div>
                     </div>                                        
             	</div>

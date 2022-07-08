@@ -16,9 +16,9 @@
 	<?php include("header.php");?>
     
     <section id="portfolio">
-    	<div class="container">
+    	<div class="container mt-4">
         	<div class="row">
-                <div class="col-lg-12 text-center mtop30">
+                <div class="col-lg-12 text-center">
                     <h1 class="iso-hover-title">PORTFOLIO</h1>
                     <h4>The result of our ideas, design, coffees, hard work, more coffees and more hard work.</h4>
                     <h5>We will apply the same formula on your design solution.</h5>
@@ -32,11 +32,11 @@
                         <li role="presentation" class="active"><a href="#web" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile" aria-expanded="true"><i class="fa fa-desktop fa-3x"></i></a></li>
                         <li role="presentation" class=""><a href="#print" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile" aria-expanded="true"><i class="fa fa-print fa-3x"></i></a></li>
                         <li role="presentation" class=""><a href="#brand" role="tab" id="profile-tab" data-toggle="tab" aria-controls="profile" aria-expanded="true"><i class="fa fa-heart fa-3x"></i></a></li>
-                        <li role="presentation" class=""><a href="#ux" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="false"><i class="fa fa-user fa-3x"></i></a></li>
+                        <!--<li role="presentation" class=""><a href="#ux" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="false"><i class="fa fa-user fa-3x"></i></a></li>-->
                     </ul>
                         
                     <div id="myTabContent" class="tab-content text-center">
-                        <div role="tabpanel" class="tab-pane fade active in animated fadeInUp" id="web" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade active in animated" id="web" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">
@@ -182,7 +182,7 @@
                             </div>
                         </div>
 
-                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="print" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade in animated" id="print" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">
@@ -289,7 +289,7 @@
                             </div>
                         </div>   
 
-                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="brand" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade in animated" id="brand" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">
@@ -424,7 +424,7 @@
                             </div>
                         </div>  
                         
-                        <div role="tabpanel" class="tab-pane fade in animated fadeInUp" id="ux" aria-labelledby="profile-tab">
+                        <div role="tabpanel" class="tab-pane fade in animated" id="ux" aria-labelledby="profile-tab">
                             <div id="portfoliocards">
                                 <div class="container">
                                     <div class="tr">

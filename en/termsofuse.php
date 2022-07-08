@@ -17,8 +17,8 @@
 
 
     <section style="background:#ffffff;">
-        <div class="container">
-            <div class="row mtop30">
+        <div class="container mt-4">
+            <div class="row">
             	<div class="col-lg-12">
                 	<div class="col-sm-5">
                     	<img src="images/cons_nectar.png" class="img-responsive">

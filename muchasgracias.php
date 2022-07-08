@@ -15,8 +15,8 @@
 	<?php include("header.php");?>
 
 	<section class="back-darkoragne">
-        <div class="container">
-            <div class="row mtop30">
+        <div class="container mt-4">
+            <div class="row">
                 <div class="col-sm-6" style="float:right; z-index:15;">
                 	<h3>Muchas gracias por comunicarse con PACHA!<br />
                     <small class="mtop-10">Su mensaje ha sido enviado con éxito.</small></h3>

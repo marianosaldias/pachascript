@@ -1,7 +1,7 @@
 	<section class="back-backpachaiso">
         <div class="container">
             <div class="row mtop50">
-            	<div class="col-lg-12 fadInUp">
+            	<div class="col-lg-12">
                     <div id="owl-example" class="owl-carousel text-center">
                         <div class="item darkoragne">
                         	<img src="images/ico_pacha.png" alt="Tons of Opotions">
