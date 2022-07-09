@@ -110,18 +110,18 @@
                     <h4 class="mtop25">Todo lo que hacemos está impulsado por la investigación y la participación de los usuarios.<br />
                     Poniendo al usuario en el corazón de nuestras soluciones, ofrecemos mejores productos y servicios.</h4>
                 </div>
-            	<div class="col-lg-12 text-center mtop100">
-                	<div class="col-sm-4 mbot80">
+            	<div class="col-lg-12 text-center mt-3">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-puzzle-piece fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-puzzle-piece fa-2x"></i></div>
                             <h4>Investigación</h4>
                             <p>Ayudamos a los clientes a comprender y sentir empatía con sus clientes, identificando las oportunidades de negocio a través de un profundo conocimiento y análisis.</p>
                             <!--<a href="pacha.php" class="btn btn-primary">PACHA</a>-->
                         </div>
                     </div>
-                	<div class="col-sm-4 mbot80">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-2x"></i></div>
                             <h4>Innovación</h4>
                             <p>Identificamos cómo agregar valor a su propuesta de cliente y crear un impacto duradero. Utilizamos una gama de técnicas para innovar incluyendo ideación, concepting y co-creación.</p>
                             <!--<a href="web.php" class="btn btn-primary">Web</a>-->
@@ -129,7 +129,7 @@
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-pencil fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-pencil fa-2x"></i></div>
                             <h4>Diseño</h4>
                             <p>Conectamos necesidades y deseos a través de soluciones innovadoras que transformen la experiencia y el compromiso del cliente.</p>
                             <!--<a href="print.php" class="btn btn-primary">Print</a>-->

@@ -22,24 +22,24 @@
                     <h4>La presencia on-line, mediante un sitio web o redes sociales, es en la actualidad un paso primario para toda empresa o emprendedor.</h4>
                     <h6>Internet se vuelve en este punto una solución de posicionamiento de tu producto a bajo costo. Detalles, imágenes, formas de pago, modelos y colores son accesibles desde un teléfono.</h6>
                 </div>
-            	<div class="col-lg-12 text-center mtop100">
-                	<div class="col-sm-4 mbot80">
+            	<div class="col-lg-12 text-center mt-3">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-pencil fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-pencil fa-2x"></i></div>
                             <h4>Diseño</h4>
                             <p>Contemplamos aspectos de usabilidad, una estructura clara de distribución de contenidos y secciones y al posicionamiento en buscadores (SEO).</p>
                         </div>
                     </div>
-                	<div class="col-sm-4 mbot80">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-2x"></i></div>
                             <h4>Rediseño</h4>
                             <p>Un rediseño periodico de la experiencia del usuario es consecuencia del análisis de resultados necesario para realizar ajustes en la optimización de un sitio web o aplicación.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-user fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-user fa-2x"></i></div>
                             <h4>UX/UI Design</h4>
                             <p>Diseños orientados a una Experiencia de Usuario: sensaciones e impresiones positivas que garantizan la vuelta del usuario a su sitio web.</p>
                         </div>

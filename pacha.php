@@ -25,18 +25,18 @@
                     <strong>PACHA esta con vos</strong>.</h5>
                     <h5>Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto para que llegue a lugares donde nunca soñaste.</h5>
                 </div>
-            	<div class="col-lg-12 text-center mtop100">
-                	<div class="col-sm-4 mbot80">
+            	<div class="col-lg-12 text-center mt-3">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-2x"></i></div>
                             <h4>PACHA</h4>
                             <p>Somos la respuesta a tus necesidades de diseño y comunicación a través de soluciones gráficas y sitios web.</p>
                             <a href="pacha.php" class="btn btn-primary">PACHA</a>
                         </div>
                     </div>
-                	<div class="col-sm-4 mbot80">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-2x"></i></div>
                             <h4>Web</h4>
                             <p>Servicios de diseño web, desarrollo, e-mail marketing, hosting, registro de dominios y mucho más!</p>
                             <a href="web.php" class="btn btn-primary">Web</a>
@@ -44,7 +44,7 @@
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-print fa-2x"></i></div>
                             <h4>Print</h4>
                             <p>Tenemos todo lo que necesitas para consolidar tu identidad visual y necesidades de comunicación: logos, brochures, tarjetas de presentación, etc.</p>
                             <a href="print.php" class="btn btn-primary">Print</a>
@@ -79,16 +79,16 @@
                 	<h2 class="fadInDown">Consultoría en Diseño</h2>
                     <h5 class="fadInUp">Orientados al asesoramiento, ofrecemos un servicio gratuito de Consultoría en Diseño, Comercial, Marketing y Publicidad a cargo de profesionales en las áreas.</h5>
 
-                    <div class="col-sm-6 mtop100 fadInUp">
+                    <div class="col-sm-6 mt-3 fadInUp">
                         <div class="box-text font-white">
-                            <div class="circle-text-ico"><i class="fa fa-pencil fa-5x"></i></div>
+                            <div class="circle-text-ico"><i class="fa fa-pencil fa-2x"></i></div>
                             <h4>Diseño</h4>
                             <p>Un servicio gratuito de ayuda y asesoramiento profesional que lo ayudará a lograr encontrar la imagen de su empresa, y poder mostrarse como usted quiere ante sus clientes.</p>
                         </div>
                     </div>
-                    <div class="col-sm-6 mtop100 fadInDown">
+                    <div class="col-sm-6 mt-3 fadInDown">
                         <div class="box-text">
-                            <div class="circle-text-ico"><i class="fa fa-weixin fa-5x"></i></div>
+                            <div class="circle-text-ico"><i class="fa fa-weixin fa-2x"></i></div>
                             <h4>Consultoría</h4>
                             <p>Identificando oportunidades de negocios que muchas veces permanecen ocultas, podrá diferenciarse de sus competidores creando nuevos mercados y productos.</p>
                         </div>
@@ -123,19 +123,19 @@
                     <h4 class="fadInUp">Pacha está en formación continua para ofrecer las últimas tendencias en diseño y desarrollo web.</h4>
                 </div>
             	<div class="col-sm-12 text-center mtop25">
-                	<div class="col-sm-4 mtop80">
+                	<div class="col-sm-4 mt-3">
                     	<h5 class="fadInLeft">Caracterizados por el serio compromiso con el nivel artístico y funcional de todos los proyectos que asumimos, altos estándares de calidad y el enfoque hacia la satisfacción total de nuestros clientes.</h5>
                     </div>
-                	<div class="col-sm-4 mtop80 mbot80">
+                	<div class="col-sm-4 mt-3 mb-3">
                     	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico"><i class="fa fa-rocket fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-rocket fa-2x"></i></div>
                             <h4>Misión</h4>
                             <p>Mejora continua en soluciones de diseño, comunicación, desarrollo y experiencia innovadoras comprometidas con la calidad y la satisfacción final.</p>
                         </div>
                     </div>
-                	<div class="col-sm-4 mtop80">
+                	<div class="col-sm-4 mt-3">
                     	<div class="box-text fadInDown">
-                        	<div class="circle-text-ico"><i class="fa fa-eye fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-eye fa-2x"></i></div>
                             <h4>Visión</h4>
                             <p>Tus aliados estratégicos en la búsqueda continua de soluciones innovadoras en las áreas de diseño, internet a través de una continua capacitación.</p>
                         </div>
@@ -152,24 +152,24 @@
                 	<h2 class="iso-hover-title fadInDown">Cultura</h2>
                     <h4 class="fadInDown">Orientados a tus objetivos, ofrecemos un servicio de Consultoría en Diseño y Desarrollo para procesos de comunicación y marketing digital a cargo de profesionales en las áreas.</h4>
                 </div>
-            	<div class="col-lg-12 text-center mtop100">
-                    <div class="col-sm-4 mbot80">
+            	<div class="col-lg-12 text-center mt-3">
+                    <div class="col-sm-4 mb-3">
                     	<div class="box-text fadInLeft">
-                        	<div class="circle-text-ico"><i class="fa fa-heart fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-heart fa-2x"></i></div>
                             <h4>Pasión</h4>
                             <p>Vocación, pasión y entusiasmo por el diseño, marcan la diferencia en nuestros servicios.</p>
                         </div>
                     </div>
-                	<div class="col-sm-4 mbot80">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico"><i class="fa fa-flag-checkered fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-flag-checkered fa-2x"></i></div>
                             <h4>Objetivos</h4>
                             <p>Nuestro esfuerzo va más allá de las exigencias formales; buscamos lograr sus objetivos, queremos agradarlo haciéndolo con excelencia.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text fadInRight">
-                        	<div class="circle-text-ico"><i class="fa fa-clock-o fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-clock-o fa-2x"></i></div>
                             <h4>Puntualidad</h4>
                             <p>La puntualidad y responsabilidad. Nuestro compromiso de satisfacción al cliente nos obliga a ser exigentes con este objetivo.</p>
                         </div>

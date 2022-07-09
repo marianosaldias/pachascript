@@ -23,24 +23,24 @@
                     <h5>We are experienced strategic thinkers. A lot of thought goes into creating a successful brand, web venture, campaign or product launch.<br />
                     It takes a combination of psychology & sociology, assessing the target demographic, planning, researching, strategizing. All of this must happen before our talented designers go to work designing & developing.</h5>
                 </div>
-            	<div class="col-lg-12 text-center mtop100">
-                	<div class="col-sm-4 mbot80">
+            	<div class="col-lg-12 text-center mt-3">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-pencil fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-pencil fa-2x"></i></div>
                             <h4>Website Design</h4>
                             <p>We build visually compelling websites that instantly reinforce credibility and that drive conversions. Our team design and develop websites that are Responsive</p>
                         </div>
                     </div>
-                	<div class="col-sm-4 mbot80">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-2x"></i></div>
                             <h4>E-Commerce</h4>
                             <p>We create customized e-commerce solutions to meet business requirements. Our team develops an ecommerce solution that works on desktops, tablets and mobiles.</p>
                         </div>
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-user fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-user fa-2x"></i></div>
                             <h4>UX/UI Design</h4>
                             <p>We plan for the best user experience with specific goals in mind. What we do not do is use templates. We develop each and every project from the ground up.</p>
                         </div>

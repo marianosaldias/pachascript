@@ -109,18 +109,18 @@
                     <h1 class="h1-img-logo"><img src="images/img-logo-pacha-vert.png" alt="" title="PACHA - Diseño Web / Diseño Gráfico" style="width:175px;"></h1>
                     <h4 class="mtop25">Estamos con vos para transmitir esa energía que viaja junto a vos y tu producto para que llegue a lugares donde nunca soñaste.</h4>
                 </div>
-            	<div class="col-lg-12 text-center mtop100">
-                	<div class="col-sm-4 mbot80">
+            	<div class="col-lg-12 text-center mt-3">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-paint-brush fa-2x"></i></div>
                             <h4>Pacha</h4>
                             <p>Somos la respuesta a tus necesidades de diseño y comunicación a través de soluciones gráficas y sitios web.</p>
                             <a href="pacha.php" class="btn btn-primary">PACHA</a>
                         </div>
                     </div>
-                	<div class="col-sm-4 mbot80">
+                	<div class="col-sm-4 mb-3">
                     	<div class="box-text">
-                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-desktop fa-2x"></i></div>
                             <h4>Web</h4>
                             <p>Servicios de diseño web, desarrollo, e-mail marketing, hosting, registro de dominios y mucho más!</p>
                             <a href="web.php" class="btn btn-primary">Web</a>
@@ -128,7 +128,7 @@
                     </div>
                 	<div class="col-sm-4">
                     	<div class="box-text fadInUp">
-                        	<div class="circle-text-ico"><i class="fa fa-print fa-5x"></i></div>
+                        	<div class="circle-text-ico"><i class="fa fa-print fa-2x"></i></div>
                             <h4>Print</h4>
                             <p>Tenemos todo lo que necesitas para consolidar tu identidad visual y necesidades de comunicación: logos, brochures, tarjetas de presentación, etc.</p>
                             <a href="print.php" class="btn btn-primary">Print</a>
