@@ -67,7 +67,7 @@
                     <div class="p4 fadeIn" data-type="element" data-anchor-target="#movile2" data-0="top:-200px; transform: rotate(-6deg);" data-end="top:0px; opacity:1;" data-speed=".8">
                     	<img src="imgparallax/dg_unitech_frente.jpg" alt="">
                     </div> 
-                    <div class="p4 fadeIn" data-type="element" data-anchor-target="#movile2" data-0="top:600px; transform: rotate(5deg);" data-end="top:-100px; opacity:1;" data-speed=".8">
+                    <div class="p4 fadeIn" data-type="element" data-anchor-target="#movile2" data-0="top:400px; transform: rotate(5deg);" data-end="top:100px; opacity:1;" data-speed=".8">
                     	<img src="imgparallax/dg_unitech_dorso.jpg" alt="">
                     </div>                     
                 </div>     

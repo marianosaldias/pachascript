@@ -404,18 +404,19 @@ body .navbar .navbar-header a {
 }
 body .navbar-nav>li>a {
     color: #b4960a;
+    color: #ffffff;
     text-transform: uppercase;
     font-size: 15px;
     font-family: 'GothamRoundedMedium';
     letter-spacing: 1px;
-	padding: 5px 4px;
-	margin: 25px 2px;
+    padding: 5px 4px;
+    margin: 25px 2px;
     border-bottom: 2px solid transparent;
 	
 }
 body .navbar-nav>li>a:hover {
     background: 0 0;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #ffffff;
 }
 body .navbar-nav>li>a.btn {
     padding: 5px 10px;
@@ -640,13 +641,13 @@ ul#portfolio-list li { width:23%; margin:2% 1%;}
 
 /*/// Sliderhome /////////////////////////////////////////////////////////////////////////////////////////////*/
 
-#sliderhome { background-image:url(../imagebacks/sliderhome.jpg); background-size:cover;}
-#sliderhome * { color:#333;}
+#sliderhome { background-image:url(../imagebacks/back_purmamarca.jpg); background-size:cover;}
+#sliderhome * { color:#ffffff; text-shadow: 1px 1px #111111; font-weight: 700;}
 
 /*/// OffShore /////////////////////////////////////////////////////////////////////////////////////////////*/
 
 #offshore { background-image:url(../imagebacks/back_offshore.jpg); background-size:cover;}
-#offshore * { color:#FFFFFF;}
+#offshore * { color:#FFFFFF; text-shadow: 1px 1px #ff0000;}
 
 /*/// Partners /////////////////////////////////////////////////////////////////////////////////////////////*/
 
@@ -756,12 +757,12 @@ ul.list-logos-print li { display: inline-block; width: 33%; margin: 0; text-alig
 
 /*/// Contacto ////////////////////////////////////////////////////////////////////////////////////////////*/
 
-#contacto { background:url(../imagebacks/back_purmamarca.jpg) #000 no-repeat; background-size:cover;}
+#contacto { background:url(../imagebacks/back_home.jpg) #000 no-repeat; background-size:cover; background-position: bottom;}
 #contacto h1 {color: white;}
 
 #form-contacto input, #form-contacto textarea { border:1px solid #ffffff; padding:5px; width:90%;}
 
-.formcard {background: #b4960a; padding: 24px; border-radius: 5%; opacity: .9;}
+.formcard {background: #000000; padding: 24px; border-radius: 5%; opacity: .75;}
 
 input, textarea { border:none; border-bottom:1px solid #ffffff; padding:10px; width:100%; font-size:16px; color:#ffffff; margin:0 0 10px 0; background:none;}
 input:focus, textarea:focus { border:none; border-bottom:1px solid #ffffff;}

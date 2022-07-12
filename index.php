@@ -37,7 +37,7 @@
                             <div class="container-carou-home">	    
                                 <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 mbot50">
                                     <h2 class="iso-hover-title">OFF SHORE</h2>
-                                    <h5>Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h5>
+                                    <h4>Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h4>
                                     <a class="btn btn-lg mtop30 text-center" href="pacha.php#partners">Partners</a>
                                 </div>
                             </div>
@@ -48,7 +48,7 @@
                             <div class="container-carou-home">    
                                 <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 mbot50">
                                     <h2 class="iso-hover-title">e-COMMERCE</h2>
-                                    <h5>Últimos diseños y tecnologías para el desarrollo de tu sitio web web con Carro de Compras/e-commerce para que puedas vender por internet y aumentar las ventas de tu empresa.</h5>
+                                    <h4>Últimos diseños y tecnologías para el desarrollo de tu sitio web web con Carro de Compras/e-commerce para que puedas vender por internet y aumentar las ventas de tu empresa.</h4>
                                     <a href="web.php#ux" class="btn btn-lg mtop30 text-center">E-Commerce</a>
                                 </div>
                             </div>
