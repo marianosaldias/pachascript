@@ -19,8 +19,12 @@
     <section id="contacto">
     	<div class="container mt-4">
             <div class="row">
-            	<div class="col-sm-6 col-sm-offset-3 mbot50">
-                	<h1 class="iso-hover-title text-center">CONTACTO</h1>
+                <div class="col-lg-5 col-lg-offset-7 col-md-5 col-md-offset-7 col-xs-10 col-xs-offset-1">
+                    <h1 class="iso-hover-title text-center">CONTACTO</h1>
+                </div>
+            </div>            
+            <div class="row">
+            	<div class="col-lg-5 col-lg-offset-7 col-md-5 col-md-offset-7 col-xs-10 col-xs-offset-1 mbot50 mt-1 formcard">
                     <form id="form1" method="post" action="mail.php">
                         <div class="control">
                             <input type="text" id="txt_nombreyape" name="txt_nombreyape" placeholder="Tu nombre" required>
@@ -38,9 +42,9 @@
 							<textarea name="txt_comentario" id="txt_comentario" placeholder="Tu mensaje" required class="mbott20"></textarea>                        
                         </div>
                         
-                        <div class="control mtop30">
-                            <button type="submit" class="btn btn-lg" style="border: 1px solid #333333; color: #333333;">ENVIAR</button>
-                            <button type="reset" class="btn btn-lg" style="border: 1px solid #333333; color: #333333; opacity:.35;">Borrar</button>
+                        <div class="control">
+                            <button type="submit" class="btn btn-md" style="border: 1px solid #ffffff; color: #ffffff;">ENVIAR</button>
+                            <button type="reset" class="btn btn-md" style="border: 1px solid #eeeeee; color: #eeeeee;">Borrar</button>
                         </div>                            
 
                     </form> 

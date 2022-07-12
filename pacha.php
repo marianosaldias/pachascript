@@ -184,7 +184,7 @@
 	<section id="partners">
         <div class="container">
             <div class="row">
-            	<div class="col-lg-10 col-xs-offset-1 text-center">
+            	<div class="col-lg-6 col-lg-offset-5 col-md-6 col-md-offset-5 col-sm-6 col-sm-offset-6 text-center">
                 	<h2 class="iso-hover-title fadInDown">PARTNERS</h2>
                     <h4 class="fadInUp">Compartimos proyectos de diseño y desarrollo junto a estudios de Buenos Aires, California y Madrid.</h4>
                     <h5 class="fadInUp">Agradecemos la confianza que nos brindan y renovamos nuestro compromiso de excelencia a diario.</h5>

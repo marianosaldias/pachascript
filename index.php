@@ -34,68 +34,36 @@
                 <div class="carousel-inner mainbannhome">
                     <div class="item active" style="overflow:hidden;">
                         <div class="carousel-caption">
-                            <div class="container container-carou-home">	
-                                    <div class="col-lg-7 col-sm-6 mobile notmobile" id="offsho">
-                                        <div class="p1 fadeIn" data-type="element" data-anchor-target="#offsho" data-0="top:85px; right:-100px;" data-end="top:800px;"  data-speed="10">
-                                            <img src="imgparallax/offshore.jpg" alt="">
-                                        </div>
-                                    </div>     
-                                    <div class="col-lg-5 col-sm-6 mbot50">
-                                        <h2 class="iso-hover-title">OFF SHORE</h2>
-                                        <h5>Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h5>
-                                        <a class="btn btn-lg mtop30 text-center" href="pacha.php#partners">Partners</a>
-                                    </div>
+                            <div class="container-carou-home">	    
+                                <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 mbot50">
+                                    <h2 class="iso-hover-title">OFF SHORE</h2>
+                                    <h5>Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h5>
+                                    <a class="btn btn-lg mtop30 text-center" href="pacha.php#partners">Partners</a>
+                                </div>
                             </div>
                         </div>
                     </div>   
                     <div class="item" style="overflow:hidden;">
                         <div class="carousel-caption">
-                            <div class="container container-carou-home">	
-
-                                    <div class="col-lg-7 col-sm-6 mobile notmobile" id="userx">
-                                        <div class="p1 fadeIn" data-type="element" data-anchor-target="#userx" data-0="top:85px; right:-100px;" data-end="top:100px;" data-speed="10">
-                                            <img src="imgparallax/carrito.jpg" alt="">
-                                        </div>   
-                                    </div>     
-                                    <div class="col-lg-5 col-sm-6">
-                                        <h2 class="iso-hover-title">e-COMMERCE</h2>
-                                        <h5>Últimos diseños y tecnologías para el desarrollo de tu sitio web web con Carro de Compras/e-commerce para que puedas vender por internet y aumentar las ventas de tu empresa.</h5>
-                                        <a href="web.php#ux" class="btn btn-lg mtop30 text-center">E-Commerce</a>
-                                    </div>
-
+                            <div class="container-carou-home">    
+                                <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-xs-10 col-xs-offset-1 mbot50">
+                                    <h2 class="iso-hover-title">e-COMMERCE</h2>
+                                    <h5>Últimos diseños y tecnologías para el desarrollo de tu sitio web web con Carro de Compras/e-commerce para que puedas vender por internet y aumentar las ventas de tu empresa.</h5>
+                                    <a href="web.php#ux" class="btn btn-lg mtop30 text-center">E-Commerce</a>
+                                </div>
                             </div>
                         </div>
-                    </div>    
-                    <!--                                                                
-                    <div class="item" style="overflow:hidden;">
-                        <div class="carousel-caption">
-                            <div class="container container-carou-home">	
-
-                                    <div class="col-lg-7 col-sm-6 mobile notmobile fadInUp" id="offsho">
-                                        <div class="p1 fadeIn" data-type="element" data-anchor-target="#offsho" data-0="top:85px; right:-100px;" data-end="top:600px;"  data-speed="10">
-                                            <img src="imgparallax/offshore.jpg" alt="">
-                                        </div>
-                                    </div>     
-                                    <div class="col-lg-5 col-sm-6 mbot50 fadInUp">
-                                        <h2 class="iso-hover-title">OFF SHORE</h2>
-                                        <h5>Creatividad, calidad de desarrollos y los bajos costos, nos hace partners de agencias y empresas del exterior para desarrollar proyectos de comunicación en la web.</h5>
-                                        <a class="btn btn-lg mtop30 text-center" href="pacha.php#partners">Partners</a>
-                                    </div>                            
-
-                            </div>
-                        </div>
-                    </div>   
-                    -->
+                    </div>
                 </div>
                 
-                  <a class="left carousel-control" href="#mainbannhome" role="button" data-slide="prev">
+                <a class="left carousel-control" href="#mainbannhome" role="button" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="right carousel-control" href="#mainbannhome" role="button" data-slide="next">
+                </a>
+                <a class="right carousel-control" href="#mainbannhome" role="button" data-slide="next">
                     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
-                  </a>                
+                </a>                
                 
             </div>  
         </div>

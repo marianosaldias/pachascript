@@ -19,8 +19,13 @@
     <section id="contacto">
     	<div class="container mt-4">
             <div class="row">
-                <div class="col-sm-6 col-xs-offset-3 mbot50">
-                	<h1 class="iso-hover-title text-center">CONTACT US!</h1>
+                <div class="col-lg-6 col-lg-offset-6 col-md-6 col-md-offset-6 col-xs-10 col-xs-offset-1">
+                    <h1 class="iso-hover-title text-center">CONTACT US!</h1>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-6 col-lg-offset-6 col-md-6 col-md-offset-6 col-xs-10 col-xs-offset- mt-1 mbot50 formcard">
                     <form id="form1" method="post" action="mail.php">
                         <div class="control">
                             <input type="text" id="txt_nombreyape" name="txt_nombreyape" placeholder="Your name" required>
@@ -38,9 +43,9 @@
 							<textarea name="txt_comentario" id="txt_comentario" placeholder="How we can help you?" required class="mbott20"></textarea>                        
                         </div>
                         
-                        <div class="control mtop30">
-                            <button type="submit" class="btn btn-lg" style="border: 1px solid #333333; color: #333333;">SEND</button>
-                            <button type="reset" class="btn btn-lg" style="border: 1px solid #333333; color: #333333; opacity:.35;">Reset</button>
+                        <div class="control mt-1">
+                            <button type="submit" class="btn btn-md" style="border: 1px solid #ffffff; color: #ffffff;">SEND</button>
+                            <button type="reset" class="btn btn-md" style="border: 1px solid #eeeeee; color: #eeeeee;">Reset</button>
                         </div>                            
                     </form> 
                 </div>            

@@ -188,7 +188,7 @@ reaching out to clients, old and new. A free helpline and professional counselin
 	<section id="partners">
         <div class="container">
             <div class="row">
-            	<div class="col-lg-10 col-xs-offset-1 text-center">
+            	<div class="col-lg-6 col-lg-offset-5 col-md-6 col-md-offset-5 col-sm-6 col-sm-offset-6 text-center">
                 	<h2 class="iso-hover-title fadInDown">PARTNERS</h2>
                     <h4 class="fadInUp">We provide technical support and share projects with design studios in Buenos Aires, Vienna and Berlin.</h4>
                     <h5 class="fadInUp">We appreciate the trust of these studies and strive to continue to count on us always.</h5>
